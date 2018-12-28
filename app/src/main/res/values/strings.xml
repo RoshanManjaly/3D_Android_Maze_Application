@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AMazeByRoshanManjaly</string>
+    <string-array name="generation_algs">
+        <item>Prim</item>
+        <item>Eller</item>
+        <item>DFS</item>
+    </string-array>
+    <string-array name="drivers">
+        <item>Manual</item>
+        <item>Wizard</item>
+        <item>Wall Follower</item>
+        <item>Pledge\'s Algorithm</item>
+        <item>Explorer</item>
+    </string-array>
+    <string name="title_activity_dummy">DummyActivity</string>
+    <string name="title_activity_display_message">Generating maze...</string>
+    <string name="gen_activity_display_message">Generating maze...</string>
+    <string name="auto_activity_display_message">Navigating maze...</string>
+    <string name="manual_activity_display_message">Navigate the maze!</string>
+    <string name="finish_activity_display_message">Game over!</string>
+    <string name="batteryLabelWord">Battery:</string>
+    <string name="batteryLabelNumbers">Current/Total</string>
+    <string name="manualDistanceTraveled">Distance Traveled:</string>
+    <string name="main_menu_label">Main Menu</string>
+    <string name="win_message">You Won!</string>
+    <string name="continue_text">Continue</string>
+    <string name="show_visible_walls_text">Show Visible Walls</string>
+    <string name="show_solution_text">Show Solution</string>
+    <string name="show_full_map_text">Show Full Map</string>
+    <string name="up_arrow">up arrow</string>
+    <string name="down_arrow">down arrow</string>
+    <string name="right_arrow">right arrow</string>
+    <string name="left_arrow">left arrow</string>
+    <string name="play_pause">play/pause</string>
+    <string name="finish_maze">finish maze</string>
+    <string name="maze_welcome">Welcome to the maze game!</string>
+    <string name="difficultytext">Difficulty Level</string>
+    <string name="newmazetext">Explore</string>
+    <string name="driver">Driver</string>
+    <string name="_0">0</string>
+    <string name="algorithm">Generation Algorithm</string>
+    <string name="switch_text">Switch</string>
+    <string name="checkbox_text">Load maze from file?</string>
+    <string name="generating_maze">Generating maze...</string>
+</resources>
